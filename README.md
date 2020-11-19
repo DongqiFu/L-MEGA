@@ -5,6 +5,7 @@ This repository is for the KDD'2020 paper "Local Motif Clustering on Time-Evolvi
 - numpy 1.14.6
 - scipy 1.2.1
 
+## Reference
 If you use the materials from the repositiory, please refer to our paper.
 ```
 @inproceedings{DBLP:conf/kdd/FuZH20,
