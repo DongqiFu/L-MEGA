@@ -1,4 +1,4 @@
-# L-MEGA (**L**ocal **M**otif Clustering on Time-**E**volving **G**r**a**phs)
+# L-MEGA (Local *M*otif Clustering on Time-*E*volving *G*r*a*phs)
 This repository is for the KDD'2020 paper "Local Motif Clustering on Time-Evolving Graphs".
 
 If you use the materials from the repositiory, please refer to our paper.
