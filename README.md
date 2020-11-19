@@ -1,6 +1,10 @@
 # L-MEGA (Local Motif Clustering on Time-Evolving Graphs)
 This repository is for the KDD'2020 paper "Local Motif Clustering on Time-Evolving Graphs".
 
+## Package Required
+- numpy 1.14.6
+- scipy 1.2.1
+
 If you use the materials from the repositiory, please refer to our paper.
 ```
 @inproceedings{DBLP:conf/kdd/FuZH20,
