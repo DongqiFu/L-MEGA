@@ -10,7 +10,7 @@ The code is written by Python 3.7, and necessary packages are listed below.
 - scipy 1.2.1
 
 ## Reference
-If you use the materials from the repositiory, please refer to our paper.
+If you use the materials from this repositiory, please refer to our paper.
 ```
 @inproceedings{DBLP:conf/kdd/FuZH20,
   author    = {Dongqi Fu and
