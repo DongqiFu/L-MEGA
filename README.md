@@ -4,11 +4,6 @@ This repository is for the KDD'2020 paper "Local Motif Clustering on Time-Evolvi
 ## Functionality
 Given a seed node, a user-specified motif, and necessary hyperparameters, L-MEGA is able to produce a local cluster near the given seed node and densely connected by the given motifs.
 
-## Package Required
-The code is written by Python 3.7, and necessary packages are listed below.
-- numpy 1.14.6
-- scipy 1.2.1
-
 ## Reference
 If you use the materials from this repositiory, please refer to our paper.
 ```
