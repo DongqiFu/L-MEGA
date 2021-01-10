@@ -12,3 +12,7 @@ import datetime
 print(datetime.datetime.fromtimestamp(1398744000.0))
 >>> 2014-04-28 23:00:00
 ```
+
+## How to Run
+First, please run prereq.py to obtain the initial clustering result at timestamp t0.
+Then, run main.py to call L-MEGA to track the clustering result from timestamp t1 to t10.
