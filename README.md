@@ -1,5 +1,5 @@
 # L-MEGA: Local Motif Clustering on Time-Evolving Graphs
-This repository is for the KDD'2020 paper "Local Motif Clustering on Time-Evolving Graphs".
+This repository is for the KDD' 2020 paper "Local Motif Clustering on Time-Evolving Graphs". [Link](https://dongqifu.github.io/publications/L-MEGA.pdf)
 
 ## Functionality
 Given a seed node, a user-specified motif, and necessary hyperparameters, L-MEGA is able to produce a local cluster near the given seed node and densely connected by the given motifs.
